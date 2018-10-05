@@ -1,0 +1,27 @@
+{
+  "name": "react-webpack-babel-md-tutorial",
+  "version": "1.0.0",
+  "description": "This is a Tutorial to showcase the usage of React with Webpack and Babel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativetimofficial/react-webpack-babel-md-tutorial.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "babel",
+    "materialdesign",
+    "tutorial",
+    "creativetim"
+  ],
+  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creativetimofficial/react-webpack-babel-md-tutorial/issues"
+  },
+  "homepage": "https://github.com/creativetimofficial/react-webpack-babel-md-tutorial#readme"
+}
